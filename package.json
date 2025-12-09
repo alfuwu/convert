@@ -5,6 +5,7 @@
     "@ffmpeg/util": "^0.12.2",
     "canvg": "^4.0.3",
     "mime": "^4.1.0",
+    "pdftoimg-js": "^0.2.5",
     "wasm-imagemagick": "^1.2.8"
   }
 }
